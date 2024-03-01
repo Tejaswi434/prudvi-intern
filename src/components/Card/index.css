@@ -1,0 +1,15 @@
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.mainContainerOne {
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}

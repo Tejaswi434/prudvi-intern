@@ -1,0 +1,19 @@
+.smallContainer {
+  border: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  width: 300px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+p {
+  text-align: center;
+}
+button {
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
+.imageCentering {
+  margin-left: 50px;
+}
